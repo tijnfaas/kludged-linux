@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Kludged Linux - Linux for your Psion PDA
+description: A kludged attempt at documenting how to install Linux on the Psion 5MX and Psion 7
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://tijnfaas.github.io/kludged-linux
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
