@@ -331,8 +331,8 @@ Adrian
 Installation Files
 
 
-Previous versions of kludged linux can be downloaded from the links below.
+_Previous versions of kludged linux can be downloaded from the links below._
 
-Kludged Sarge was based on the psilinux sargebook with a modular kernel v2.4.27 (their last work).
+_Kludged Sarge was based on the psilinux sargebook with a modular kernel v2.4.27 (their last work)._
 
-Kludged Woody was based on the psilinux Xwoody with a static kernel v2.4.19.
+_Kludged Woody was based on the psilinux Xwoody with a static kernel v2.4.19._
